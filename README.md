@@ -14,6 +14,6 @@ Nombre de usuario
 Password
 Nombre de la base de datos (agenda)
 
-** Estructura tabla posts **
+**Estructura tabla posts**
  
 <img width="577" alt="tablapostsblog" src="https://github.com/user-attachments/assets/b79551a0-7d83-44f3-9023-3fdebfbdad2b">
