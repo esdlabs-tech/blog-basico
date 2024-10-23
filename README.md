@@ -12,7 +12,7 @@ Modifica el archivo db.php con los datos de tu servidor MySQL (nombre de usuario
 Nombre de tu servidor (por ejemplo localhost)
 Nombre de usuario
 Password
-Nombre de la base de datos (agenda)
+Nombre de la base de datos
 
 **Estructura tabla posts**
  
